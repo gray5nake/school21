@@ -1,0 +1,9 @@
+dn: uid=yskiles,ou=2018,ou=student,ou=people,dc=21-school,dc=ru
+changetype: modify
+add: mobile
+mobile: +79859530343
+
+dn: uid=yskiles,ou=2018,ou=student,ou=people,dc=21-school,dc=ru
+changetype: modify
+add: mail
+mail: birchenko.yaroslav@mail.ru

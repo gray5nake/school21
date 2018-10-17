@@ -1,0 +1,7 @@
+Credentials cache: API:8201
+        Principal: yskiles@21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Oct 15 19:43:10 2018  Oct 16 05:43:10 2018  krbtgt/21-SCHOOL.RU@21-SCHOOL.RU
+Oct 15 19:43:12 2018  Oct 16 05:43:10 2018  ldap/ldap-master.21-school.ru@21-SCHOOL.RU
+Oct 15 19:43:12 2018  Oct 16 05:43:10 2018  HTTP/storage-student.21-school.ru@21-SCHOOL.RU
